@@ -9,4 +9,4 @@ hey guys!
 *HELLO*
 **Hello**
 ***Hello***
-who are you.<br> I am Reshwanth Gundeti.
+who are you. I am Reshwanth Gundeti.
